@@ -5,8 +5,8 @@ _invented by a physicist, Tim Berners-Lee, to help computers share information_
 A markup language is a computer language that defines the structure and presentation of raw text. The computer can interpret raw text that is wrapped in HTML elements
 
 <details>
-<summary>Click to toggle contents of `code`</summary>
-```
+<summary>Boilerplate</summary>
+```html
 <!DOCTYPE html> 
 <html>
 	<head>
