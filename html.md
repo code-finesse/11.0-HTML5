@@ -6,17 +6,17 @@ A markup language is a computer language that defines the structure and presenta
 
 <details>
 <summary>Boilerplate</summary>
-```html
-<!DOCTYPE html> 
-<html>
-	<head>
-		<title>My Coding Journey</title> 
-	</head>
-	<body>
-		<p>Hello World</p>
-	</body>
-</html>
-```
+
+	<!DOCTYPE html> 
+	  <html>
+	    <head>
+	      <title>My Coding Journey</title> 
+	    </head>
+	    <body>
+	      <p>Hello World</p>
+	    </body>
+	  </html>
+
 </details>
 
 Structure:
